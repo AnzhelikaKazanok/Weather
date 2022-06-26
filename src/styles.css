@@ -82,3 +82,13 @@ form {
 .form-control btn btn-primary {
   background-color: #655b6a;
 }
+.coder-information {
+  text-align: center;
+  font-family: josefin slab;
+  color: #655b6a;
+}
+.my-name {
+  text-align: center;
+  font-family: josefin slab;
+  color: #b2a7b8;
+}
